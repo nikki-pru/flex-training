@@ -17,7 +17,6 @@ Setting up portal-ext.properties
 
 Starting up a portal instance with MySQL
 -----------------------------------------
-
 Now that you have a portal-ext file, check if you have the following before starting the server:
 	* Bare database;
 	* Portal-ext pointing to your database; and,

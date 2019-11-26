@@ -24,8 +24,8 @@ Another option is to create a user at '%'. This allows the no-name user to acces
 
 Grant database privileges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ``mysql > grant all privileges on *.* to ''@'localhost';``
 Since Portal creates its own tables, it needs database privileges to do so. In fact, it would need all privileges.
-    ``mysql > grant all privileges on *.* to ''@'localhost';``
 If you created the user at '%'', don’t forget to grant privileges to that user too.
 
 ⚠️ On MySQL, run the following commands and show your trainer the results:
@@ -37,6 +37,7 @@ Create a bare database
 ^^^^^^^^^^^^^^^^^^^^^^^
   ``mysql > create database dbname char set utf8;``
 You can name the database whatever fits your testing needs. As a standard, we name the liferay database lportal. To create the lportal database, we would run
+
   ``mysql > create database lportal char set utf8;``
 If you are testing multiple portal versions later on, you may change the database name to master, 72x, 71x or whatever fits your needs. The DB name doesn’t matter as long as it’s declared in a properties file that we will discuss in the next section.
 
