@@ -13,6 +13,7 @@ Welcome to Liferay QA!
 
    welcome/welcome
    welcome/department
+   welcome/policies
    welcome/logistics
    welcome/setup
 
