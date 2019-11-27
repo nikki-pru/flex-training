@@ -39,7 +39,8 @@ Welcome to Liferay QA!
 
 .. toctree::
   :maxdepth: 1
-  :caption: JIRA Standards
+  :caption: JIRA
   :name: portal
 
-  jira-standards/jira-standards
+  jira/jira-standards
+  jira/jira-workflow
