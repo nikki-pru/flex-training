@@ -13,7 +13,7 @@ Locate the /log folder on your ``liferay.home``. Since we’re starting a new in
 
 Summary
 -------
-In summary of this, and the last section on `Starting Fresh`_, what we need for a clean start up are the following:
+In summary of this, and the section on `Starting Fresh`_, what we need for a clean startup are the following:
 
 1. Clean database
 2. Clean data folder
@@ -22,4 +22,4 @@ In summary of this, and the last section on `Starting Fresh`_, what we need for 
 .. note::
   The ``/osgi/state`` folder in ``liferay.home`` is another directory that needs to be cleaned, but it is not necessary to do so unless you're replacing jar files in the osgi folder.
 
-.. _Starting Fresh: ./starting-fresh
+.. _Starting Fresh: ./starting-fresh.html

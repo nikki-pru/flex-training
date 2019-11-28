@@ -18,7 +18,7 @@ In other cases, manual testing tasks come with minimal instruction, like `this t
 3. Put yourself in the shoes of a customer/user - how will this feature be used, how can this feature break;
 4. Never base on uncertainty - reach out to a team member, your lead or another QA member, or the developer to clarify what needs to be tested.
 
-If something breaks or you find a bug while testing, don’t sweep it under the rug. If something breaks in-house it will also most likely break when it gets to the customer. If something is inconsistent, you can take note of the issue or ask a friend to do a sanity check on what you're seeing. You can also add a comment to the ticket being tested, or file a bug ticket on JIRA.  We will learn how to do that in the next section. 
+If something breaks or you find a bug while testing, don’t sweep it under the rug. These issues could potentially be blockers for an upcoming release or could cause more issues down the line if not properly looked into. If something breaks in-house it will also most likely break when it gets to the customer. If something is inconsistent, you can take note of the issue or ask a friend to do a sanity check on what you're seeing. You can also add a comment to the ticket being tested, or file a bug ticket on JIRA.  We will learn how to do that in the next section.
 
 .. _Test Plans: https://docs.google.com/spreadsheets/d/15clEKFeLYoDPyqRHqZbjBTGpAwSMdqqM6Fhgr3gK1Ug/edit?usp=sharing
 .. _this ticket: https://issues.liferay.com/browse/COMMERCE-2410
