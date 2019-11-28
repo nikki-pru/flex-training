@@ -1,7 +1,7 @@
-JIRA Ticket Standards
-======================
+Commenting Standards
+=====================
 
-`JIRA`_ is the ticketing system we use here at Liferay. Because it is used by most business functions, it is good to have some standards when interacting with others over JIRA tickets. These are not arbitrary standards but are best practices we’ve developed over the years to efficiently get information across to a developer, another viewer, or for reporting purposes. We work with developers and team members across different time zones and cultures and the more efficiently we get our point across the first time, the faster we get results.
+Since JIRA is used by most business functions in Liferay, it is good to have some standards when interacting with others over tickets. These are not arbitrary standards but are best practices we’ve developed over the years to efficiently get information across to a developer, another viewer, or for reporting purposes. We work with developers and team members across different time zones and languages and the more efficiently we get our point across the first time, the faster we get results.
 
 Filing a bug ticket
 --------------------
@@ -97,8 +97,6 @@ A ticket is no longer reproducible when there is no linked pull request. The iss
   A short summary of observed behavior.
 
 
-
-.. _JIRA: http://issues.liferay.com
 .. _LPS-103947: https://issues.liferay.com/browse/LPS-103947
 .. _LPS-103737: https://issues.liferay.com/browse/LPS-103737
 .. _LPS-103861: https://issues.liferay.com/browse/LPS-103861
