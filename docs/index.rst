@@ -33,14 +33,24 @@ Welcome to Liferay QA!
 .. toctree::
   :maxdepth: 1
   :caption: Manual Testing
-  :name: portal
+  :name: manual-testing
 
   manual-testing/manual-testing
 
 .. toctree::
   :maxdepth: 1
   :caption: JIRA Tickets
-  :name: portal
+  :name: jira
 
   jira/jira-workflow
   jira/jira-standards
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Source Code
+  :name: source-code
+
+  source-code/fetch-master
+  source-code/syncing
+  source-code/building-master
+  source-code/summary
