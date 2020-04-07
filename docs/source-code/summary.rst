@@ -14,6 +14,7 @@ If I only need snapshot bundles, do I need to update master?
 If you are working with Poshi, yes. This is because updated Poshi files are housed in master and you would need to pull in changes to be able to work on updated files. Running ``ant all``  is not needed to use Poshi files, but it is recommended to run ``ant setup-sdk`` after pulling upstream.
 
 To summarize that, your setup could be:
+
 1. Run a snapshot bundle
 2. Update your master-portal directory and run ``ant setup-sdk``
 3. Proceed with Tests workflow
