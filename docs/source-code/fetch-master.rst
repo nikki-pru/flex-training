@@ -6,9 +6,10 @@ As mentioned in a previous section, source code is unusable in its raw, uncompil
 Fetch Master
 ^^^^^^^^^^^^^
 
-1. Create a folder, master-portal.
-2. Initialize git (run ``git init``).
-3. In the created git folder, edit the ``.git/config`` file to the following
+1. Create a folder, master.
+2. Inside the 'master' folder, create a folder name 'master-portal'
+3. Inside 'master-portal', Initialize git (run ``git init``).
+4. In the created git folder, edit the ``.git/config`` file to the following
 :
 ::
   [core]
