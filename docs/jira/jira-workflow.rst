@@ -3,6 +3,11 @@ Ticket Types and Workflow
 
 `JIRA`_ is the ticketing system we use here at Liferay. Different ticket types have their own workflow as determined by the teams that use them. The following are general pointers to keep in mind when working on tickets.
 
+Auto Text Expander
+-------------
+Auto Text Expander is an extension that will help Flex testers write tickets faster by setting the ticket format on the ticket's summary in a second. This link will bring you
+to `Auto Text Expander`_ installation. This `document`_ will help you set up all the shortcuts for ticket format on Auto Text Expander.
+
 LRQA tickets
 -------------
 LRQA tickets are used to manage QA work. When working on an LRQA ticket:
@@ -33,3 +38,5 @@ A story ticket that is ready for testing will be in the READY FOR QA status.
 
 
 .. _JIRA: http://issues.liferay.com
+.. Auto Text Expander_: https://chrome.google.com/webstore/detail/auto-text-expander-for-go/iibninhmiggehlcdolcilmhacighjamp?hl=en
+.. _document: https://docs.google.com/document/d/1y7DuqdYakrlPvOOmL5FMqDGHiNhPcAJquF3nAf1yeJw/edit?usp=sharing
