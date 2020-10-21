@@ -22,7 +22,7 @@ Within this file, you should declare specifically where your Liferay bundle will
 Within this file, you should declare specifically where the "project" directory is located. This is a similar setting, based on the app server directory. To do this, your build.[computername].properties file should contain this line
 :
 ::
-  app.server.dir={directory}/master-bundles/tomcat-9.0.17
+  app.server.dir={directory}/master-bundles/tomcat-9.0.37
 
 .. note::
   ``{directory}`` should be where your master-portal folder is, making the master-bundles folder parallel to master-portal.
