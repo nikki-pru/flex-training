@@ -10,8 +10,10 @@ Please make sure you have access to the following, or have it installed on your 
   * #o-diamond-bar
   * #d-quality-assurance
   * #t-qa-flex
+  * #portal-failures
+  * #portal-ee-failures
 2. Google Chrome
-3. An editor like Sublime 3 (download the license from `here`_)
+3. An editor like Sublime 3 (download the license from `here`_) or `Visual Studio Code`_
 4. Github account
 5. Access to `QA contacts on Airtable`_
 6. Access to issues.liferay.com (using your Liferay credentials)
@@ -31,3 +33,4 @@ Dongles and adapters are also provided should you need them to connect your lapt
 .. _here: https://drive.google.com/file/d/1VhLagzeRRDxoQ_GdNudDenYhbyqt3ytu/view?usp=sharing
 .. _QA contacts on Airtable: https://airtable.com/invite/l?inviteId=invo52zssLhczCESb&inviteToken=3ef814169412b3e12ae62a3957c88b16fcdffa0a2c0c4b4e50a5c2a76eccae59
 .. _JIRA: http://issues.liferay.com
+.. _Visual Studio Code: https://code.visualstudio.com/
