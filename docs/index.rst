@@ -51,6 +51,7 @@ Welcome to Liferay QA!
   :name: source-code
 
   source-code/fetch-master
+  source-code/organizing-source.rst
   source-code/syncing
   source-code/building-master
   source-code/summary
