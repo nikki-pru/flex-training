@@ -12,6 +12,7 @@ Please make sure you have access to the following, or have it installed on your 
   * #t-qa-flex
   * #portal-failures
   * #portal-ee-failures
+  * #forward-failures
 2. Google Chrome
 3. An editor like Sublime 3 (download the license from `here`_) or `Visual Studio Code`_
 4. Github account
