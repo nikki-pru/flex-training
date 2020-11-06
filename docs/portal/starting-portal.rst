@@ -1,7 +1,7 @@
 Starting Up A Portal instance
 ==============================
 
-1. Go to our `Index of Releases`_ and download 7.2.1 GA2 - Tomcat. ``.tar.gz`` file specifically
+1. Go to our `Index of Releases`_ and download the 7.3.5 GA6 bundled with the Tomcat server (``.7z`` or ``.tar.gz``).
 2. Unpack the bundle on your local machine and note the directory.
 3. Navigating into the directory, you should see the following files and folders. This directory is your ``liferay.home``.
 
