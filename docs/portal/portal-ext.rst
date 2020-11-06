@@ -14,7 +14,7 @@ Setting up portal-ext.properties
 4. If you are using a database other than lportal, locate lportal from ``jdbc.default.url=`` and replace it with your database name.
 5. If you did not create a no-name user with a null password in the MySQL Basics section, fill in the username and password properties. Else, leave these blank.
 6. Save the file.
-7. After configure portal-ext file , your file should look like this `portal-ext.properties`_ 
+7. After configuring the portal-ext file, the file should look similar to this `portal-ext.properties`_ file.
 
 Starting up a portal instance with MySQL
 -----------------------------------------
@@ -27,4 +27,4 @@ If you’ve checked all of the above, start the server and wait for Portal to lo
 ⚠️ Show your trainer that Portal is up and that the database used is MySQL.
 
 .. _portal.properties: https://github.com/liferay/liferay-portal/blob/master/portal-impl/src/portal.properties
-.. _portal-ext.properties: https://drive.google.com/file/d/1Xt0uxZL-H_P2jgsQTScQo8fnrCitRdy9/view?usp=sharing
+.. _portal-ext.properties: https://gist.github.com/calvinctvo/121078d1e4d9c4acf2a5c533bee86f19
