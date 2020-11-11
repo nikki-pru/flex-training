@@ -3,9 +3,12 @@ Commenting Standards
 
 Since JIRA is used by most business functions in Liferay, it is good to have some standards when interacting with others over tickets. These are not arbitrary standards but are best practices we’ve developed over the years to efficiently get information across to a developer, another viewer, or for reporting purposes. We work with developers and team members across different time zones and languages and the more efficiently we get our point across the first time, the faster we get results.
 
+.. tip::
+  Checkout the Auto Text Expander mentioned in the Setups section for a quick way to format the standards below.
+
 Filing a bug ticket
 --------------------
-When filing bug tickets it is important to inform others on how the issue was reproduced and on what GIT IDs it was reproduced on. Attached GIFs or images are also helpful. Example, `LPS-103947`_.
+When filing bug tickets it is important to inform others on how the issue was reproduced and on what GIT IDs it was reproduced on. Attach GIFs, images or logs that will aid the developer gain better understanding of the behavior you're reporting. Example, `LPS-103947`_.
 ::
   *Steps to Reproduce:*
   # Step 1
@@ -39,11 +42,11 @@ Once a bug ticket has been created, it is set to Open status. These tickets need
 
 Closing bug tickets
 --------------------
-There are multiple scenarios that can happen when closing a bug ticket. As in Filing a Bug Ticket, steps and GIT ID are important to document how or when the bug was closed in case the ticket needs to be referenced later on. The first thing to do is to Manually test the ticket to see if the issue is no longer reproducible
+There are multiple scenarios that can happen when closing a bug ticket. As in Filing a Bug Ticket, steps and the GIT ID are important to document how or when the bug was closed in case the ticket needs to be referenced later on. The first thing to do is to Manually test the ticket to see if the issue is no longer reproducible
 
 Fixed
-^^^^^^
-A bug ticket should be closed as fixed when there is a linked pull request. Example: `LPS-103737`_
+^^^^^
+A bug ticket should be closed as fixed when **there is a linked pull request**. Example: `LPS-103737`_
 
 *When steps are included in the description*
 ::
@@ -95,8 +98,12 @@ A ticket is no longer reproducible when there is no linked pull request. The iss
   Portal {version} GIT ID: #######################
 
   A short summary of observed behavior.
+  
+Failed QA
+^^^^^^^^^
+A ticket in Resolved status that still fails after manual testing needs to be commented with text similar to that in the **Fixed** section above, except it needs to say ```FAILED``` instead of ```PASSED```.
 
-
+  
 .. _LPS-103947: https://issues.liferay.com/browse/LPS-103947
 .. _LPS-103737: https://issues.liferay.com/browse/LPS-103737
 .. _LPS-103861: https://issues.liferay.com/browse/LPS-103861
