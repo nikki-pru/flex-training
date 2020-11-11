@@ -24,6 +24,7 @@ Please make sure you have access to the following, or have it installed on your 
 7. JAVA jdk 8
 8. MySQL 5.7
 9. `VPN`_
+10. `Auto Text Expander`_ (optional). This is an extension that helps create keyboard shortcuts like setting formatting for Jira tickets. Here are some `sample shortcuts` for frequently used phrases in QA.
 
 ⚠️ After creating your GitHub account, ping your trainer or lead letting them know your GitHub username so they can request for you to be added to the Liferay organization.
 
@@ -45,3 +46,5 @@ Dongles and adapters are also provided should you need them to connect your lapt
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _Spira: https://liferay.spiraservice.net/
 .. _VPN Setup: https://in.liferay.com/web/employees/wiki/-/wiki/A+Main/VPN+Settings?_36_pageResourcePrimKey=1507916
+.. _Auto Text Expander: https://chrome.google.com/webstore/detail/auto-text-expander-for-go/iibninhmiggehlcdolcilmhacighjamp?hl=en
+.. _sample shortcuts: https://docs.google.com/document/d/1y7DuqdYakrlPvOOmL5FMqDGHiNhPcAJquF3nAf1yeJw/edit?usp=sharing
