@@ -42,4 +42,5 @@ Whereas creating the top-level portal version folder could result in the followi
   |   └── master-portal
   └── master-snapshot-bundle
   
-  .. _Fetch Master: ../fetch-master.rst
+  
+.. _Fetch Master: ../fetch-master.rst
